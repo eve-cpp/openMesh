@@ -1,2 +1,4 @@
 221016
 this is a second prac.
+For command line git tutorial
+prac.txt file is edited.
