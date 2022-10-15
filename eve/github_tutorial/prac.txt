@@ -2,3 +2,5 @@
 this is a second prac.
 For command line git tutorial
 prac.txt file is edited.
+
+git pull last prac.
